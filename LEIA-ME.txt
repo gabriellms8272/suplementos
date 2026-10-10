@@ -1,0 +1,25 @@
+PURA FORÇA — catálogo de suplementos
+
+COMO ABRIR
+1. Extraia o ZIP para uma pasta.
+2. Abra o arquivo index.html no navegador.
+
+COMO EDITAR SEM MEXER NO CÓDIGO
+1. Abra o endereço do site terminando em ?editar=1 (exemplo: https://seu-site/?editar=1). No link normal, o botão de edição fica oculto.
+2. Clique em “Editar catálogo”, no canto inferior direito.
+3. Edite nome, preço, detalhes, categoria, descrição e etiqueta dos produtos.
+4. Para trocar uma foto, cole o link da imagem ou escolha um arquivo de imagem do aparelho.
+5. Informe seu WhatsApp com código do país e DDD. Exemplo: 5511999999999.
+6. Clique em “Salvar alterações”. As mudanças permanecem salvas neste aparelho e navegador.
+
+Para adicionar ou remover produtos, use os botões no painel. “Restaurar catálogo inicial” volta aos exemplos originais.
+
+IMPORTANTE SOBRE O GITHUB PAGES
+O modo ?editar=1 oculta o botão no link normal, mas não é uma senha segura. O painel salva as alterações no navegador do aparelho onde foram feitas. O GitHub Pages não sincroniza essas mudanças com outros visitantes. Para todos verem os novos preços/fotos, é necessário republicar os arquivos atualizados ou ligar o site a um serviço online de dados.
+
+As fotos de demonstração são carregadas da internet. Confira informações, composição e valores dos produtos antes de publicar.
+
+PUBLICAÇÃO
+Você pode publicar os arquivos em um serviço de hospedagem de sites estáticos, como GitHub Pages, Netlify ou Vercel. O serviço escolhido gera o link público do catálogo.
+
+Este modelo é demonstrativo. Consulte um profissional de saúde antes de usar suplementos.
